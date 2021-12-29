@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Sorting Visualiser
+Welcome to sorting visualiser! I built this application in my free time as a practice to help me to refresh the sorting algorithm knowledge. I hope you give a shot and play around with it a little bit. You can access the application with this link: https://tommy-zitaoy.github.io/Sorting_Visualiser/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
